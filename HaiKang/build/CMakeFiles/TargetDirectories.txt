@@ -1,0 +1,3 @@
+/home/yan-han/Code/HaiKang/build/CMakeFiles/hike.dir
+/home/yan-han/Code/HaiKang/build/CMakeFiles/edit_cache.dir
+/home/yan-han/Code/HaiKang/build/CMakeFiles/rebuild_cache.dir

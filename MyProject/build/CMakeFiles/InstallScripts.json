@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/yan-han/Code/MyProject/build/cmake_install.cmake",
+		"/home/yan-han/Code/MyProject/build/lib/cmake_install.cmake",
+		"/home/yan-han/Code/MyProject/build/app/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
