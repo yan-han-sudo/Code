@@ -4,8 +4,8 @@ using namespace std;
 int main()
 {
     cout<<"hello"<<endl;
-    int a;
-    cin>>a;
-    cout<<"your number is:"<<a<<endl;
+    int a,b;
+    cin>>a>>b;
+    cout<<"your number is:"<<a<<"and"<<b<<endl;
     return 0;
 }
