@@ -1,0 +1,4 @@
+-xc++
+-std=c++17
+-I/opt/MVS/include
+-Wl,-rpath=/opt/MVS/lib/64 -L/opt/MVS/lib/64 –lMvCameraControl

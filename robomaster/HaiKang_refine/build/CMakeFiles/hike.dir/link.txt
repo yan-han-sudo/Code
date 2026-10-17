@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/hike.dir/link.d CMakeFiles/hike.dir/src/main.cpp.o CMakeFiles/hike.dir/src/camera.cpp.o -o hike   -L/opt/MVS/lib/64  -Wl,-rpath,/opt/MVS/lib/64 -lCameraParams -lMvCameraControl -lMvErrorDefine -lMvISPErrorDefine -lMvObsoleteInterfaces -lObsoleteCamParams -lPixelType
